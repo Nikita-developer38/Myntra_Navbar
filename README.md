@@ -8,9 +8,7 @@ This project is a clone of the Myntra website's navigation bar created using HTM
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
