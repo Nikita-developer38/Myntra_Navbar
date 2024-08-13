@@ -31,6 +31,5 @@ This project is a clone of the Myntra website's navigation bar created using HTM
 ## Installation
 
 1. Clone the repository:
-   ```bash
   https://github.com/Nikita-developer38/Myntra_Navbar
-  ```
+  
